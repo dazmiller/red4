@@ -1,0 +1,785 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"s",
+				"style	HTML - Stylesheet link"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ov",
+				"overflow	(nohassl.css)"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"removec",
+				"removeClass( value )	jquery.js"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Con",
+				"Conditioning"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Comp",
+				"Components	(Link.php)"
+			],
+			[
+				"Com",
+				"ComponentBase	(Loading.php)"
+			],
+			[
+				"Opp",
+				"Opportunity	(Opportunity.php)"
+			],
+			[
+				"C",
+				"Companies	(create_companies_table.php)"
+			],
+			[
+				"Indu",
+				"Industry	(version.yaml)"
+			],
+			[
+				"dazmiller",
+				"dazmiller@gmail"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"att",
+				"attr(\"data"
+			],
+			[
+				"in",
+				"intro"
+			],
+			[
+				"drill",
+				"drill_down"
+			],
+			[
+				"vi",
+				"vizTypes	visualization.js"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"veh",
+				"veh_type"
+			],
+			[
+				"b_",
+				"b_time"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 249.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"paclk",
+				"Package Control: Install Package"
+			],
+			[
+				"coff",
+				"CoffeeToJs: Convert file"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"do",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"g",
+				"Git: Commit"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"json",
+				"JsonTree: Show Tree"
+			],
+			[
+				"js",
+				"JsonTree: Show Tree"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: d",
+				"Snippet: d3.selectAll"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-navbar-inverse"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 405.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/lamp/www/red3",
+		"/C/lamp/www/red3/app",
+		"/C/lamp/www/red3/app/Controllers",
+		"/C/lamp/www/red3/app/Views",
+		"/C/lamp/www/red3/app/Views/_layout",
+		"/C/lamp/www/red3/app/Views/landing",
+		"/C/lamp/www/red3/app/Views/portal",
+		"/C/lamp/www/red3/public",
+		"/C/lamp/www/red3/public/css",
+		"/C/lamp/www/red3/public/css/portal",
+		"/C/lamp/www/red3/vendor"
+	],
+	"file_history":
+	[
+		"/C/lamp/www/red3/app/Views/portal/index.twig",
+		"/C/lamp/www/red3/app/Views/_layout/header_portal.twig",
+		"/C/lamp/www/red3/app/Views/_layout/master_portal.twig",
+		"/C/lamp/www/red2/app/Views/_layout/master.twig",
+		"/C/lamp/www/red3/app/Views/_layout/master_landing.twig",
+		"/C/lamp/www/red3/app/Controllers/Root.php",
+		"/C/lamp/www/red3/app/Views/landing/index.twig",
+		"/C/lamp/www/red3/app/Views/layout.twig",
+		"/C/lamp/www/red3/app/Views/portal/profile.twig",
+		"/C/lamp/www/red3/app/Views/_layout/sidenav_portal.twig",
+		"/C/lamp/www/red3/app/Views/_layout/footer_portal.twig",
+		"/C/lamp/www/red2/app/Controllers/UserProfile.php",
+		"/C/lamp/www/red2/app/Models/UserProfile.php",
+		"/C/lamp/www/red2/app/Views/profile.twig",
+		"/C/Users/darren/Documents/Untitled.sql",
+		"/C/lamp/www/red2/public/index.php",
+		"/C/lamp/www/red2/composer.json",
+		"/C/lamp/www/red3/app/Views/index.twig",
+		"/C/lamp/www/red3/app/Views/_layout/master.twig",
+		"/C/lamp/www/red3/public/index.php",
+		"/C/testmiddle/source/index.html.erb",
+		"/C/lamp/www/red2/app/Models/User.php",
+		"/C/lamp/www/red2/app/Controllers/BaseController.php",
+		"/C/lamp/www/red2/app/Views/_partials/topmenu.twig",
+		"/C/Users/darren/Documents/1.sql",
+		"/C/lamp/www/red2/app/Models/userprofile.php",
+		"/C/lamp/www/red2/app/Controllers/Register.php",
+		"/C/lamp/www/fin2/api/v1/index.php",
+		"/C/lamp/www/red2/app/Controllers/Root.php",
+		"/C/lamp/www/fin2/api/v1/models/healthinsuranceprofile.php",
+		"/C/lamp/www/fin2/api/v1/models/userprofile.php",
+		"/C/lamp/www/fin2/api/v1/models/funeralinsuranceprofile.php",
+		"/C/lamp/www/fin2/api/v1/models/lifeinsuranceprofile.php",
+		"/C/lamp/www/fin2/insurance/get-a-house-insurance-quote.php",
+		"/C/lamp/www/red2/app/Views/_register.twig",
+		"/C/lamp/www/red2/app/Views/register.twig",
+		"/C/lamp/www/red2/vendor/cartalyst/sentinel/schema/mysql.sql",
+		"/C/lamp/www/red2/vendor/composer/installed.json",
+		"/C/Users/darren/Downloads/nohassl_travel.sql",
+		"/C/Users/darren/Desktop/dddd_files/formoid1/handler.php",
+		"/C/Users/darren/Desktop/dddd.html",
+		"/C/Users/darren/Desktop/dddd.php",
+		"/C/Users/darren/Desktop/dddd_files/formoid1/form.php",
+		"/C/Users/darren/Desktop/dddd_files/formoid1/helpers.php",
+		"/C/lamp/www/hasslbolt/public/index.php",
+		"/C/lamp/www/hasslbolt/README.md",
+		"/C/lamp/www/fin2/nohassl/.env.example",
+		"/C/lamp/www/fin2/nohassl/js/login/demo.js",
+		"/C/lamp/www/fin2/nohassl/vendor/slim/views/Twig.php",
+		"/C/lamp/www/fin2/nohassl/app/config/config.php",
+		"/C/lamp/www/fin2/nohassl/app/Http/Controllers/SecurityController.php",
+		"/C/lamp/www/fin2/nohassl/app/Components/Forms/LoginForm.php",
+		"/C/lamp/www/fin2/nohassl/composer.json",
+		"/C/lamp/www/fin2/nohassl/vendor/autoload.php",
+		"/C/lamp/www/fin2/nohassl/app/resources/views/_layout/master.twig",
+		"/C/lamp/www/fin2/nohassl/app/bootstrap/bootstrap.php",
+		"/C/lamp/www/fin2/nohassl/composer.lock",
+		"/C/lamp/www/fin2/nohassl/app/resources/views/home.twig",
+		"/C/lamp/www/fin2/nohassl/app/resources/views/_partials/topmenu.twig",
+		"/C/lamp/www/fin2/nohassl/app/resources/views/_partials/contactpopup.twig",
+		"/C/lamp/www/fin2/nohassl/app/resources/views/_partials/quotepopup.twig",
+		"/C/lamp/www/fin2/insurance/index.php",
+		"/C/lamp/www/fin2/nohassl/css/login/theme.css",
+		"/C/lamp/www/fin2/nohassl/.htaccess",
+		"/C/lamp/www/fin2/nohassl/app/Http/routes.php",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/api/v1/index.php",
+		"/C/lamp/www/fin2/nohassl/index.php",
+		"/C/lamp/www/fin2/nohassl/app/Components/Forms/SubscribeForm.php",
+		"/C/lamp/www/fin2/nohassl/app/Components/Routing/Router.php",
+		"/C/lamp/www/fin2/nohassl/app/ressources/views/terms.twig",
+		"/C/lamp/www/fin2/nohassl/app/ressources/views/home.twig",
+		"/C/lamp/www/fin2/nohassl/app/ressources/views/_layout/master.twig",
+		"/C/lamp/www/fin2/psx/bin/psx",
+		"/C/lamp/www/fin2/psx/configuration.php",
+		"/C/lamp/www/fin2/psx/library/NoHassl/Schema/HomeInsurance.php",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/index.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/travel/index.php",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/marketing/logs/grav.log",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/api/v1/composer.json",
+		"/C/rubydevkit/config.yml",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/mortgages/index.php",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/investing/index.php",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/banking/index.php",
+		"/C/slate/slate/source/index.md",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/api/rocker/composer.json",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/api/rocker/config.php",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/api/models/homecontentsinsuranceprofile.php",
+		"/C/Users/darren/AppData/Local/Temp/Rar$DI44.872/EstimatesApi.php",
+		"/C/Users/darren/AppData/Local/Temp/Rar$DI36.872/index.php",
+		"/C/lamp/www/task_manager/include/DbConnect.php",
+		"/C/lamp/www/task_manager/include/userprofile.php",
+		"/C/lamp/www/task_manager/include/Config.php",
+		"/C/lamp/www/task_manager/models/funeralinsuranceprofile.php",
+		"/C/lamp/www/task_manager/v1/index.php",
+		"/C/lamp/www/task_manager/models/homecontentsinsuranceprofile.php",
+		"/C/lamp/www/task_manager/v1/.htaccess",
+		"/C/Battlefield 1942/Settings/VideoDefault.con",
+		"/C/Battlefield 1942/Settings/Video.con",
+		"/C/Battlefield 1942/Settings/Default/VideoHigh.con",
+		"/C/WINDOWS/system32/http",
+		"/C/lamp/www/dreamfactory/dsp-core/config/constants.config.php",
+		"/C/lamp/www/dreamfactory/dsp-core/config/common.config.php",
+		"/C/lamp/www/dreamfactory/dsp-core/config/web.php",
+		"/C/lamp/www/dreamfactory/dsp-core/config/databases/database.config.php-dist",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/index.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/life-insurance.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/travel-insurance.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/blog.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/car-insurance.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/claims.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/contact.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/get-a-car-insurance-quote.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/get-a-house-insurance-quote.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/get-a-life-insurance-quote.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/get-a-travel-insurance-quote.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/house-insurance.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/404.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/_assets/_js/functions.js",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/_assets/_libs/jquery.js",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/_assets/_libs/parallax.js",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/agents.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/blog-single.html",
+		"/C/lamp/www/fin2/ff/martaniandemo.com/html/insurance/_assets/_css/style.css",
+		"/C/lamp/www/homer/index.php",
+		"/C/lamp/www/homer/index2.php",
+		"/C/lamp/www/homer/analytics.php",
+		"/C/lamp/www/homer/styles/style.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"C:\\lamp\\www\\red3",
+			"C:\\lamp\\www\\red2",
+			"C:\\lamp\\www\\fin2\\nohassl\\app",
+			"<project>",
+			"C:\\lamp\\www\\fin2\\nohassl",
+			"C:\\lamp\\www\\fin2\\ff\\martaniandemo.com\\html\\insurance",
+			"C:\\lamp\\www\\homer",
+			"C:\\Users\\darren\\Desktop\\ninja",
+			"C:\\lamp\\www\\homer",
+			"C:\\Users\\darren\\Desktop\\vokuro",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\nohassl\\",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\nohassl\\landing\\",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\nohassl\\landing",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\nohassl\\",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\nohassl\\js",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\twentyfifteen\\",
+			"C:\\Users\\darren\\Desktop\\mk",
+			"C:\\Users\\darren\\Desktop\\kleo",
+			"C:\\Users\\darren\\Desktop\\humhub-master",
+			"<project>,C:\\Users\\darren\\Desktop\\humhub-master",
+			"<project>",
+			"C:\\lamp\\www\\quiz\\resources\\views",
+			"C:\\templates\\demo.themefuzz.com\\clean",
+			"C:\\templates\\demo.themefuzz.com\\clean\\js",
+			"<project>",
+			"C:\\socialite",
+			"<project>",
+			"C:\\lamp\\www\\serviceme_admin",
+			"C:\\lamp\\www\\serviceme\\user",
+			"<project>",
+			"C:\\Users\\darren\\Desktop\\kula",
+			"C:\\lightning\\fathomless-cliffs-2571",
+			"C:\\airtaskr\\kulafencing\\website\\kulafencing\\kulafencing.com,<open files>,C:\\airtaskr\\kulafencing\\website\\kulafencing\\kulafencing.com",
+			"C:\\airtaskr\\kulafencing\\website\\kulafencing\\kulafencing.com,<open files>",
+			"C:\\airtaskr\\kulafencing\\website\\kulafencing\\kulafencing.com\\",
+			"C:\\airtaskr\\kulafencing\\website\\kulafencing\\kulafencing.com",
+			"C:\\wamp\\www\\flat\\demo.flatlogic.com\\sing-bootstrapbay\\ajax"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mouse",
+			"typed",
+			"Modernizr",
+			"webflow",
+			"timekit2.webflow.2b10ab6eb",
+			"sidemenu-open",
+			"fade-in-on-scroll",
+			"fade-in-on-pagel",
+			"fade-in-on-pageload",
+			"create",
+			"is already in use.",
+			"username",
+			"session",
+			"Twig_Environment",
+			"sess",
+			"submit",
+			"suppor",
+			"1.jp",
+			"patter",
+			"urlf",
+			"bootst",
+			"terms",
+			"ressource",
+			"health in",
+			".html",
+			"data-insurance-key",
+			"life",
+			"512.5",
+			"section.insurances-slider .content",
+			"data-insurance-key=\"car\"",
+			"insuranceag",
+			"cgi.gstatic",
+			"csi.gs",
+			"myModalg",
+			"full screen",
+			"modal-con",
+			"modal-dia",
+			"myModalg",
+			"modal",
+			" modal-lg",
+			"modal-lg",
+			"This is standard panel footer",
+			"review",
+			"btn",
+			"filter",
+			"search",
+			"dob",
+			"datepi",
+			"<img",
+			"fade",
+			"lifenext",
+			"3.5",
+			"comp",
+			"mymod",
+			"\"#\">Latest Offers & Info",
+			"class=\"btn-info\">Latest Offers & Info",
+			"tab",
+			"dashb",
+			"you have",
+			"<As",
+			"offer",
+			"projects",
+			"<as",
+			"<body",
+			"contac",
+			"projects",
+			"comm",
+			"<As",
+			"<body",
+			"communi",
+			"<asi",
+			"communic",
+			"comm",
+			"blog",
+			"blogLatestLatest",
+			"<as",
+			"latest",
+			"428BCA",
+			"Home",
+			"pix",
+			"unselect",
+			"height",
+			"step3",
+			"img",
+			"step3",
+			"wizard",
+			"step3",
+			"your pr",
+			"myModalg",
+			"text-shad",
+			"test-shad",
+			"test-s",
+			"investing",
+			"help",
+			"                                <td>\n                                    <a href=\"file_manager.php\">\n                                        <i class=\"pe pe-7s-box1 text-success\"></i>\n                                        <h5>Files</h5>\n                                    </a>\n                                </td>",
+			"project de",
+			"travel",
+			"        <span class=\"pull-right\">\n            Example text\n        </span>",
+			" Company 2015-2020",
+			"<asi",
+			"home",
+			"landlord",
+			"travel",
+			"income",
+			"funeral",
+			"home",
+			"health",
+			"life",
+			"step3",
+			"activeDLG",
+			"tab-pane",
+			"health_insurance_dlg",
+			"modal-lg",
+			"create",
+			"mymod",
+			"submitWizard",
+			"life ins",
+			"life",
+			"bs",
+			"form",
+			"animation-delay",
+			"1.2",
+			"welcome",
+			"<USERNAME>",
+			" <li><a href=\"profile.php\">Your Profile</a></li>\n                        <li><a href=\"analytics.php\">Analytics</a></li>",
+			"<li><a href=\"contacts.php\">Contact Details</a></li>\n                        <li><a href=\"profile.php\">Profile</a></li>",
+			"<li><a href=\"contacts.php\">Contact Details</a></li>\n                        <li><a href=\"profile.php\">Your Profile</a></li>",
+			" <ul class=\"dropdown-menu animated fadeInRight m-t-xs\">\n                        <li><a href=\"contacts.php\">Contacts</a></li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"email",
+			".php",
+			"Footer",
+			" \"#\" class=\"btn btn-xs btn-info\">Latest Offers & Info",
+			"class=\"btn btn-xs btn-info\">Latest Offers & Info",
+			"",
+			"        <span class=\"pull-right\">\n            All Rights Reserved\n        </span>",
+			"A Biyers Tech Company 2015",
+			"pet",
+			"landlord",
+			"travel",
+			"income",
+			"funeral",
+			"vehicle",
+			"pet",
+			"landlord",
+			"travel",
+			"income",
+			"funeral",
+			"vehicle",
+			"home",
+			"health",
+			"<- USERNAME ->",
+			" <li><a href=\"profile.php\">Your Profile</a></li>",
+			"<li><a href=\"contacts.php\">Contact Details</a></li>\n                        <li><a href=\"profile.php\">Your Profile</a></li>",
+			" <ul class=\"dropdown-menu animated fadeInRight m-t-xs\">\n                        <li><a href=\"contacts.php\">Contact Details</a></li>",
+			"<li><a href=\"contacts.php\">Contacts Details</a></li>",
+			"Account Profile",
+			"<USERNAME>",
+			" <span class=\"text-primary\">NoHassl.com</span>",
+			"NoHassl.com",
+			"Time to take back your time and information. NoHassl.com takes all the worry and hassles out of finding the best quotes and deals for you.",
+			"<h1>NoHassl.com</h1>",
+			"<title>NoHassl.com</title>",
+			".php",
+			".html",
+			".php",
+			"<p>Get emails about new launches &amp;  future updates.</p>",
+			"   <p>Get emails about new launches &amp;  future updates.</p>",
+			"",
+			"<a href=\"javascript:;\" class=\"btn btn-secondary btn-sm btn-sm\">More Info</a>",
+			"<a href=\"javascript:;\" class=\"btn btn-primary btn-sm btn-sm\">Latest Offers</a>",
+			"<?php echo esc_url( get_template_directory_uri() ); ?>/js",
+			"",
+			"nohassl",
+			"<?php echo esc_url( get_template_directory_uri() ); ?>",
+			"<?php echo esc_url( get_template_directory_uri() ); ?>/fonts/",
+			"<?php echo esc_url( get_template_directory_uri() ); ?>/img/",
+			"/img",
+			"/fonts",
+			"",
+			"@author Darren Miller <dazmiller@gmail.com>",
+			" width=\"250\" height=\"175\"",
+			".blade.php",
+			"index.html",
+			"css/roboto.css",
+			"css",
+			"",
+			"class=\"nav-down header2",
+			"",
+			"<!-- start preloader -->\n<div id=\"preloader\">\n    <div id=\"status\">&nbsp;</div>\n</div>\n<!-- end preloader -->",
+			"",
+			"'",
+			"theme.configx",
+			"? '../",
+			"src=\"../images",
+			"src=\"../javascript",
+			"src=\"../dist",
+			"href=\"../dist",
+			": '",
+			"? '",
+			"src=\"",
+			"href=\"",
+			"src=\"",
+			"href=\"",
+			"src=\"",
+			"href=\"",
+			"/lex/js",
+			"/js",
+			"http://kulafencing.com/",
+			"<img alt=\"Kula Fencing\" class=\"img-responsive hidden-xs\" src=\"img/logo.png\">",
+			"alt=\"Kula Fencing\" class=\"img-responsive hidden-xs\" src=\"img/logo.png\" alt=\"logo\"",
+			"</a>",
+			"<a href=\"tel:0481216070\">",
+			"<a href=\"tel:0481216070\"><span>Get in Touch</span></a>",
+			"<div class=\"footer-ribbon\">\n						<a href=\"tel:0481216070\"><span>Get in Touch</a></span></a>\n					</div>",
+			"",
+			"<title>FundWatch",
+			"   <a href=\"index.html\">FundWatch</a>",
+			"<h3 class=\"mt-lg mb-lg\">FundWatch - <span class=\"fw-semi-bold\">Next Generation</span> Fund Dashboard\n                                </h3>\n",
+			"   &nbsp;\n                FundWatch\n                &nbsp;",
+			"  <h5 class=\"sidebar-nav-title\">Item Demos<a class=\"action-link\" href=\"#\"><i class=\"glyphicon glyphicon-refresh\"></i></a></h5>",
+			"<!--  <li>\n                <a href=\"inbox.html\">\n                    <span class=\"icon\">\n                        <i class=\"fa fa-envelope\"></i>\n                    </span>\n                    Email\n                    <span class=\"label label-danger\">\n                        9\n                    </span>\n                </a>\n            </li> -->"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\lamp\\www\\red5"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "red2.sublime-workspace",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,1076 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"s",
+				"style	HTML - Stylesheet link"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ov",
+				"overflow	(nohassl.css)"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"removec",
+				"removeClass( value )	jquery.js"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Con",
+				"Conditioning"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Comp",
+				"Components	(Link.php)"
+			],
+			[
+				"Com",
+				"ComponentBase	(Loading.php)"
+			],
+			[
+				"Opp",
+				"Opportunity	(Opportunity.php)"
+			],
+			[
+				"C",
+				"Companies	(create_companies_table.php)"
+			],
+			[
+				"Indu",
+				"Industry	(version.yaml)"
+			],
+			[
+				"dazmiller",
+				"dazmiller@gmail"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"att",
+				"attr(\"data"
+			],
+			[
+				"in",
+				"intro"
+			],
+			[
+				"drill",
+				"drill_down"
+			],
+			[
+				"vi",
+				"vizTypes	visualization.js"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"veh",
+				"veh_type"
+			],
+			[
+				"b_",
+				"b_time"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Views/metrics.twig",
+			"settings":
+			{
+				"buffer_size": 27835,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Views/_layout/sidenav_portal.twig",
+			"settings":
+			{
+				"buffer_size": 14643,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/lamp/www/red5/app/Controllers/Root.php",
+			"settings":
+			{
+				"buffer_size": 1115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\nnamespace Controllers;\n\nclass CustomErrors extends BaseController\n{\n    protected function initRoutes()\n    {\n        $app = $this->app;\n\n        $app->notFound(function() use ($app) {\n            $app->render('404.twig');\n        });\n    }\n}\n",
+			"file": "/C/lamp/www/red5/app/Controllers/CustomErrors.php",
+			"file_size": 249,
+			"file_write_time": 130850013240000000,
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/lamp/www/red5/app/Controllers/BaseController.php",
+			"settings":
+			{
+				"buffer_size": 229,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/lamp/www/red5/composer.json",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Controllers/Root.php",
+			"settings":
+			{
+				"buffer_size": 1115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Views/widgets.twig",
+			"settings":
+			{
+				"buffer_size": 38247,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 249.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"paclk",
+				"Package Control: Install Package"
+			],
+			[
+				"coff",
+				"CoffeeToJs: Convert file"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"do",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"g",
+				"Git: Commit"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"json",
+				"JsonTree: Show Tree"
+			],
+			[
+				"js",
+				"JsonTree: Show Tree"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: d",
+				"Snippet: d3.selectAll"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-navbar-inverse"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 405.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/lamp/www/red4/app",
+		"/C/lamp/www/red4/app/Controllers",
+		"/C/lamp/www/red4/app/Views/_layout",
+		"/C/lamp/www/red4/app/Views/_partials",
+		"/C/lamp/www/red4/public",
+		"/C/lamp/www/red5"
+	],
+	"file_history":
+	[
+		"/C/lamp/www/red4/cache/b/3/b3ad471fc3e4cb42b4c32a4be0d2a49df620a297ca773b67fdb362ba8a840718.php",
+		"/C/lamp/www/red4/app/Views/metrics.twig",
+		"/C/lamp/www/red4/app/Views/modal_window.twig",
+		"/C/lamp/www/red4/app/Views/nestable_list.twig",
+		"/C/lamp/www/red4/app/Views/notifications.twig",
+		"/C/lamp/www/red4/app/Views/off_canvas_menu.twig",
+		"/C/lamp/www/red4/app/Views/package.twig",
+		"/C/lamp/www/red4/app/Views/pin_board.twig",
+		"/C/lamp/www/red4/app/Views/profile.twig",
+		"/C/lamp/www/red4/app/Views/profile_2.twig",
+		"/C/lamp/www/red4/app/Views/project_detail.twig",
+		"/C/lamp/www/red4/app/Views/projects.twig",
+		"/C/lamp/www/red4/app/Views/search_results.twig",
+		"/C/lamp/www/red4/app/Views/slick_carousel.twig",
+		"/C/lamp/www/red4/app/Views/social_feed.twig",
+		"/C/lamp/www/red4/app/Views/spinners.twig",
+		"/C/lamp/www/red4/app/Views/sweetalert.twig",
+		"/C/lamp/www/red4/app/Views/table_basic.twig",
+		"/C/lamp/www/red4/app/Views/table_data_tables.twig",
+		"/C/lamp/www/red4/app/Views/table_foo_table.twig",
+		"/C/lamp/www/red4/app/Views/tabs.twig",
+		"/C/lamp/www/red4/app/Views/tabs_panels.twig",
+		"/C/lamp/www/red4/app/Views/teams_board.twig",
+		"/C/lamp/www/red4/app/Views/timeline.twig",
+		"/C/lamp/www/red4/app/Views/timeline_2.twig",
+		"/C/lamp/www/red4/app/Views/tinycon.twig",
+		"/C/lamp/www/red4/app/Views/toastr_notifications.twig",
+		"/C/lamp/www/red4/app/Views/tree_view.twig",
+		"/C/lamp/www/red4/app/Views/typography.twig",
+		"/C/lamp/www/red4/app/Views/validation.twig",
+		"/C/lamp/www/red4/app/Views/video.twig",
+		"/C/lamp/www/red4/app/Views/vote_list.twig",
+		"/C/lamp/www/red4/app/Views/widgets.twig",
+		"/C/lamp/www/red4/cache/0/3/03b297fd7b2c5d40d65da2541cafb50376280ca0e4a6f8f9bef626263ccbee8b.php",
+		"/C/lamp/www/red4/cache/6/f/6ff79392c5c5b7941c672c8635a84acd65f6e13d8c27baa0839496ea3f578ddb.php",
+		"/C/lamp/www/red4/cache/8/c/8c7399fdd27a48143068a869493467b1a9e277ee8155733fb5d353a602a8d460.php",
+		"/C/lamp/www/red4/cache/9/e/9ec1bb6ba775e147e6d012fac350024b85bc4c0f758e8850487d6379f7801a2d.php",
+		"/C/lamp/www/red4/app/Views/agile_board.twig",
+		"/C/lamp/www/red4/app/Views/article.twig",
+		"/C/lamp/www/red4/app/Views/badges_labels.twig",
+		"/C/lamp/www/red4/app/Views/basic_gallery.twig",
+		"/C/lamp/www/red4/app/Views/blog.twig",
+		"/C/lamp/www/red4/app/Views/buttons.twig",
+		"/C/lamp/www/red4/app/Views/calendar.twig",
+		"/C/lamp/www/red4/app/Views/carousel.twig",
+		"/C/lamp/www/red4/app/Views/chat_view.twig",
+		"/C/lamp/www/red4/app/Views/clients.twig",
+		"/C/lamp/www/red4/app/Views/code_editor.twig",
+		"/C/lamp/www/red4/app/Views/contacts.twig",
+		"/C/lamp/www/red4/app/Views/contacts_2.twig",
+		"/C/lamp/www/red4/app/Views/css_animation.twig",
+		"/C/lamp/www/red4/app/Views/dashboard_2.twig",
+		"/C/lamp/www/red4/app/Views/dashboard_3.twig",
+		"/C/lamp/www/red4/app/Views/dashboard_4.twig",
+		"/C/lamp/www/red4/app/Views/dashboard_4_1.twig",
+		"/C/lamp/www/red4/app/Views/dashboard_5.twig",
+		"/C/lamp/www/red4/app/Views/diff.twig",
+		"/C/lamp/www/red4/app/Views/draggable_panels.twig",
+		"/C/lamp/www/red4/app/Views/ecommerce-orders.twig",
+		"/C/lamp/www/red4/app/Views/ecommerce_payments.twig",
+		"/C/lamp/www/red4/app/Views/ecommerce_product.twig",
+		"/C/lamp/www/red4/app/Views/ecommerce_product_detail.twig",
+		"/C/lamp/www/red4/app/Views/ecommerce_product_list.twig",
+		"/C/lamp/www/red4/app/Views/ecommerce_products_grid.twig",
+		"/C/lamp/www/red4/app/Views/email_template.twig",
+		"/C/lamp/www/red4/app/Views/empty_page.twig",
+		"/C/lamp/www/red4/app/Views/faq.twig",
+		"/C/lamp/www/red4/app/Views/file_manager.twig",
+		"/C/lamp/www/red4/app/Views/form_advanced.twig",
+		"/C/lamp/www/red4/app/Views/form_basic.twig",
+		"/C/lamp/www/red4/app/Views/form_editors.twig",
+		"/C/lamp/www/red4/app/Views/form_file_upload.twig",
+		"/C/lamp/www/red4/app/Views/form_wizard.twig",
+		"/C/lamp/www/red4/app/Views/forum_main.twig",
+		"/C/lamp/www/red4/app/Views/forum_post.twig",
+		"/C/lamp/www/red4/app/Views/full_height.twig",
+		"/C/lamp/www/red4/app/Views/google_maps.twig",
+		"/C/lamp/www/red4/app/Views/graph_chartist.twig",
+		"/C/lamp/www/red4/app/Views/graph_chartjs.twig",
+		"/C/lamp/www/red4/app/Views/graph_flot.twig",
+		"/C/lamp/www/red4/app/Views/graph_morris.twig",
+		"/C/lamp/www/red4/app/Views/graph_peity.twig",
+		"/C/lamp/www/red4/app/Views/graph_rickshaw.twig",
+		"/C/lamp/www/red4/app/Views/graph_sparkline.twig",
+		"/C/lamp/www/red4/app/Views/grid_options.twig",
+		"/C/lamp/www/red4/app/Views/icons.twig",
+		"/C/lamp/www/red4/app/Views/idle_timer.twig",
+		"/C/lamp/www/red4/app/Views/index.twig",
+		"/C/lamp/www/red4/app/Views/invoice.twig",
+		"/C/lamp/www/red4/app/Views/issue_tracker.twig",
+		"/C/lamp/www/red4/app/Views/jq_grid.twig",
+		"/C/lamp/www/red4/app/Views/layouts.twig",
+		"/C/lamp/www/red4/app/Views/mail_compose.twig",
+		"/C/lamp/www/red4/app/Views/mail_detail.twig",
+		"/C/lamp/www/red4/app/Views/mailbox.twig",
+		"/C/lamp/www/red4/app/Views/masonry.twig",
+		"/C/lamp/www/red4/app/Controllers/Root.php",
+		"/C/lamp/www/red4/app/Views/_layout/sidenav_portal.twig",
+		"/C/lamp/www/red4/app/Views/_layout/master_portal.twig",
+		"/C/lamp/www/boltcms/app/config/config.yml",
+		"/C/lamp/www/red2/app/Views/_partials/topmenu.twig",
+		"/C/lamp/www/red4/app/Views/_partials/index_scripts.twig",
+		"/C/lamp/www/red4/public/index.php",
+		"/C/lamp/www/red4/public/js/inspinia.js",
+		"/C/lamp/www/red2/app/Views/index.twig",
+		"/C/lamp/www/red2/app/Views/layout.twig",
+		"/C/lamp/www/red2/app/Views/_layout/master.twig",
+		"/C/lamp/www/red4/app/Views/_layout/header_portal.twig",
+		"/C/lamp/www/red3/app/Views/portal/index.twig",
+		"/C/lamp/www/red3/app/Views/_layout/header_portal.twig",
+		"/C/lamp/www/red3/app/Views/_layout/master_portal.twig",
+		"/C/lamp/www/red3/app/Views/_layout/master_landing.twig",
+		"/C/lamp/www/red3/app/Controllers/Root.php",
+		"/C/lamp/www/red3/app/Views/landing/index.twig",
+		"/C/lamp/www/red3/app/Views/layout.twig",
+		"/C/lamp/www/red3/app/Views/portal/profile.twig",
+		"/C/lamp/www/red3/app/Views/_layout/sidenav_portal.twig",
+		"/C/lamp/www/red3/app/Views/_layout/footer_portal.twig",
+		"/C/lamp/www/red2/app/Controllers/UserProfile.php",
+		"/C/lamp/www/red2/app/Models/UserProfile.php",
+		"/C/lamp/www/red2/app/Views/profile.twig",
+		"/C/Users/darren/Documents/Untitled.sql",
+		"/C/lamp/www/red2/public/index.php",
+		"/C/lamp/www/red2/composer.json",
+		"/C/lamp/www/red3/app/Views/index.twig",
+		"/C/lamp/www/red3/app/Views/_layout/master.twig",
+		"/C/lamp/www/red3/public/index.php",
+		"/C/testmiddle/source/index.html.erb"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"C:\\lamp\\www\\red4",
+			"C:\\lamp\\www\\red3",
+			"C:\\lamp\\www\\red2",
+			"C:\\lamp\\www\\fin2\\nohassl\\app",
+			"<project>",
+			"C:\\lamp\\www\\fin2\\nohassl",
+			"C:\\lamp\\www\\fin2\\ff\\martaniandemo.com\\html\\insurance",
+			"C:\\lamp\\www\\homer",
+			"C:\\Users\\darren\\Desktop\\ninja",
+			"C:\\lamp\\www\\homer",
+			"C:\\Users\\darren\\Desktop\\vokuro",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\nohassl\\",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\nohassl\\landing\\",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\nohassl\\landing",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\nohassl\\",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\nohassl\\js",
+			"c:\\wamp\\www\\wp\\wp-content\\themes\\twentyfifteen\\",
+			"C:\\Users\\darren\\Desktop\\mk",
+			"C:\\Users\\darren\\Desktop\\kleo",
+			"C:\\Users\\darren\\Desktop\\humhub-master",
+			"<project>,C:\\Users\\darren\\Desktop\\humhub-master",
+			"<project>",
+			"C:\\lamp\\www\\quiz\\resources\\views",
+			"C:\\templates\\demo.themefuzz.com\\clean",
+			"C:\\templates\\demo.themefuzz.com\\clean\\js",
+			"<project>",
+			"C:\\socialite",
+			"<project>",
+			"C:\\lamp\\www\\serviceme_admin",
+			"C:\\lamp\\www\\serviceme\\user",
+			"<project>",
+			"C:\\Users\\darren\\Desktop\\kula",
+			"C:\\lightning\\fathomless-cliffs-2571",
+			"C:\\airtaskr\\kulafencing\\website\\kulafencing\\kulafencing.com,<open files>,C:\\airtaskr\\kulafencing\\website\\kulafencing\\kulafencing.com",
+			"C:\\airtaskr\\kulafencing\\website\\kulafencing\\kulafencing.com,<open files>",
+			"C:\\airtaskr\\kulafencing\\website\\kulafencing\\kulafencing.com\\",
+			"C:\\airtaskr\\kulafencing\\website\\kulafencing\\kulafencing.com",
+			"C:\\wamp\\www\\flat\\demo.flatlogic.com\\sing-bootstrapbay\\ajax"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}\n",
+			"10GB of <strong>250GB</strong> Free.",
+			"<strong>Copyright</strong> Example Company &copy; 2014-2015",
+			"\"js/",
+			"\"/js/",
+			"skin-config",
+			"\"js/",
+			"mouse",
+			"typed",
+			"Modernizr",
+			"webflow",
+			"timekit2.webflow.2b10ab6eb",
+			"sidemenu-open",
+			"fade-in-on-scroll",
+			"fade-in-on-pagel",
+			"fade-in-on-pageload",
+			"create",
+			"is already in use.",
+			"username",
+			"session",
+			"Twig_Environment",
+			"sess",
+			"submit",
+			"suppor",
+			"1.jp",
+			"patter",
+			"urlf",
+			"bootst",
+			"terms",
+			"ressource",
+			"health in",
+			".html",
+			"data-insurance-key",
+			"life",
+			"512.5",
+			"section.insurances-slider .content",
+			"data-insurance-key=\"car\"",
+			"insuranceag",
+			"cgi.gstatic",
+			"csi.gs",
+			"myModalg",
+			"full screen",
+			"modal-con",
+			"modal-dia",
+			"myModalg",
+			"modal",
+			" modal-lg",
+			"modal-lg",
+			"This is standard panel footer",
+			"review",
+			"btn",
+			"filter",
+			"search",
+			"dob",
+			"datepi",
+			"<img",
+			"fade",
+			"lifenext",
+			"3.5",
+			"comp",
+			"mymod",
+			"\"#\">Latest Offers & Info",
+			"class=\"btn-info\">Latest Offers & Info",
+			"tab",
+			"dashb",
+			"you have",
+			"<As",
+			"offer",
+			"projects",
+			"<as",
+			"<body",
+			"contac",
+			"projects",
+			"comm",
+			"<As",
+			"<body",
+			"communi",
+			"<asi",
+			"communic",
+			"comm",
+			"blog",
+			"blogLatestLatest",
+			"<as",
+			"latest",
+			"428BCA",
+			"Home",
+			"pix",
+			"unselect",
+			"height",
+			"step3",
+			"img",
+			"step3",
+			"wizard",
+			"step3",
+			"your pr",
+			"myModalg",
+			"text-shad",
+			"test-shad",
+			"test-s",
+			"investing",
+			"help",
+			"                                <td>\n                                    <a href=\"file_manager.php\">\n                                        <i class=\"pe pe-7s-box1 text-success\"></i>\n                                        <h5>Files</h5>\n                                    </a>\n                                </td>",
+			"project de",
+			"travel",
+			"        <span class=\"pull-right\">\n            Example text\n        </span>",
+			" Company 2015-2020",
+			"<asi",
+			"home",
+			"landlord",
+			"travel",
+			"income",
+			"funeral",
+			"home",
+			"health",
+			"life",
+			"step3",
+			"activeDLG",
+			"tab-pane",
+			"health_insurance_dlg",
+			"modal-lg",
+			"create",
+			"mymod",
+			"submitWizard",
+			"life ins",
+			"life",
+			"bs",
+			"form",
+			"animation-delay"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<strong>Business Edition v0.5</strong>",
+			"<strong>Copyright</strong> Nohassl.com &copy; 2014-2015",
+			"\"{{ js_dir }}",
+			"",
+			"email",
+			".php",
+			"Footer",
+			" \"#\" class=\"btn btn-xs btn-info\">Latest Offers & Info",
+			"class=\"btn btn-xs btn-info\">Latest Offers & Info",
+			"",
+			"        <span class=\"pull-right\">\n            All Rights Reserved\n        </span>",
+			"A Biyers Tech Company 2015",
+			"pet",
+			"landlord",
+			"travel",
+			"income",
+			"funeral",
+			"vehicle",
+			"pet",
+			"landlord",
+			"travel",
+			"income",
+			"funeral",
+			"vehicle",
+			"home",
+			"health",
+			"<- USERNAME ->",
+			" <li><a href=\"profile.php\">Your Profile</a></li>",
+			"<li><a href=\"contacts.php\">Contact Details</a></li>\n                        <li><a href=\"profile.php\">Your Profile</a></li>",
+			" <ul class=\"dropdown-menu animated fadeInRight m-t-xs\">\n                        <li><a href=\"contacts.php\">Contact Details</a></li>",
+			"<li><a href=\"contacts.php\">Contacts Details</a></li>",
+			"Account Profile",
+			"<USERNAME>",
+			" <span class=\"text-primary\">NoHassl.com</span>",
+			"NoHassl.com",
+			"Time to take back your time and information. NoHassl.com takes all the worry and hassles out of finding the best quotes and deals for you.",
+			"<h1>NoHassl.com</h1>",
+			"<title>NoHassl.com</title>",
+			".php",
+			".html",
+			".php",
+			"<p>Get emails about new launches &amp;  future updates.</p>",
+			"   <p>Get emails about new launches &amp;  future updates.</p>",
+			"",
+			"<a href=\"javascript:;\" class=\"btn btn-secondary btn-sm btn-sm\">More Info</a>",
+			"<a href=\"javascript:;\" class=\"btn btn-primary btn-sm btn-sm\">Latest Offers</a>",
+			"<?php echo esc_url( get_template_directory_uri() ); ?>/js",
+			"",
+			"nohassl",
+			"<?php echo esc_url( get_template_directory_uri() ); ?>",
+			"<?php echo esc_url( get_template_directory_uri() ); ?>/fonts/",
+			"<?php echo esc_url( get_template_directory_uri() ); ?>/img/",
+			"/img",
+			"/fonts",
+			"",
+			"@author Darren Miller <dazmiller@gmail.com>",
+			" width=\"250\" height=\"175\"",
+			".blade.php",
+			"index.html",
+			"css/roboto.css",
+			"css",
+			"",
+			"class=\"nav-down header2",
+			"",
+			"<!-- start preloader -->\n<div id=\"preloader\">\n    <div id=\"status\">&nbsp;</div>\n</div>\n<!-- end preloader -->",
+			"",
+			"'",
+			"theme.configx",
+			"? '../",
+			"src=\"../images",
+			"src=\"../javascript",
+			"src=\"../dist",
+			"href=\"../dist",
+			": '",
+			"? '",
+			"src=\"",
+			"href=\"",
+			"src=\"",
+			"href=\"",
+			"src=\"",
+			"href=\"",
+			"/lex/js",
+			"/js",
+			"http://kulafencing.com/",
+			"<img alt=\"Kula Fencing\" class=\"img-responsive hidden-xs\" src=\"img/logo.png\">",
+			"alt=\"Kula Fencing\" class=\"img-responsive hidden-xs\" src=\"img/logo.png\" alt=\"logo\"",
+			"</a>",
+			"<a href=\"tel:0481216070\">",
+			"<a href=\"tel:0481216070\"><span>Get in Touch</span></a>",
+			"<div class=\"footer-ribbon\">\n						<a href=\"tel:0481216070\"><span>Get in Touch</a></span></a>\n					</div>",
+			"",
+			"<title>FundWatch",
+			"   <a href=\"index.html\">FundWatch</a>",
+			"<h3 class=\"mt-lg mb-lg\">FundWatch - <span class=\"fw-semi-bold\">Next Generation</span> Fund Dashboard\n                                </h3>\n",
+			"   &nbsp;\n                FundWatch\n                &nbsp;",
+			"  <h5 class=\"sidebar-nav-title\">Item Demos<a class=\"action-link\" href=\"#\"><i class=\"glyphicon glyphicon-refresh\"></i></a></h5>",
+			"<!--  <li>\n                <a href=\"inbox.html\">\n                    <span class=\"icon\">\n                        <i class=\"fa fa-envelope\"></i>\n                    </span>\n                    Email\n                    <span class=\"label label-danger\">\n                        9\n                    </span>\n                </a>\n            </li> -->"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Views/metrics.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27834,
+								27815
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12545.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Views/_layout/sidenav_portal.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3259,
+								3259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/lamp/www/red5/app/Controllers/Root.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/lamp/www/red5/app/Controllers/CustomErrors.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/lamp/www/red5/app/Controllers/BaseController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/lamp/www/red5/composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/Controllers/Root.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1070,
+								1070
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 27.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/Views/widgets.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38246,
+								38246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18155.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "red4.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
